@@ -1,0 +1,91 @@
+{
+  "user": {
+    "id": "1",
+    "name": "Alex Johnson",
+    "title": "Premium Member",
+    "avatar": "/placeholder-user.jpg?height=96&width=96",
+    "level": 7,
+    "currentXP": 2890,
+    "nextLevelXP": 3500,
+    "totalPoints": 8850
+  },
+  "benefits": [
+    {
+      "id": "1",
+      "title": "Cashback Rewards",
+      "description": "Earn 2% cashback on all purchases made with your CRED card this month.",
+      "icon": "CreditCard",
+      "status": "available",
+      "value": "2%"
+    },
+    {
+      "id": "2",
+      "title": "Premium Lounge Access",
+      "description": "Complimentary access to airport lounges worldwide for you and a guest.",
+      "icon": "Plane",
+      "status": "available",
+      "value": "Free"
+    },
+    {
+      "id": "3",
+      "title": "Exclusive Gift Vouchers",
+      "description": "₹500 gift voucher for top brands. Valid for 30 days from claim date.",
+      "icon": "Gift",
+      "status": "claimed",
+      "value": "₹500"
+    },
+    {
+      "id": "4",
+      "title": "Fuel Surcharge Waiver",
+      "description": "Get fuel surcharge waived on all fuel transactions at partner stations.",
+      "icon": "Car",
+      "status": "available",
+      "value": "100%"
+    },
+    {
+      "id": "5",
+      "title": "Coffee Subscription",
+      "description": "Free premium coffee subscription for 3 months from our partner cafes.",
+      "icon": "Coffee",
+      "status": "locked",
+      "value": "3 months"
+    },
+    {
+      "id": "6",
+      "title": "Shopping Discounts",
+      "description": "Up to 20% discount on fashion and lifestyle brands. Limited time offer.",
+      "icon": "ShoppingBag",
+      "status": "available",
+      "value": "20%"
+    }
+  ],
+  "rewardStats": {
+    "pointsThisMonth": 1250,
+    "monthlyProgress": [
+      {
+        "month": "Jan",
+        "points": 1200
+      },
+      {
+        "month": "Feb",
+        "points": 1800
+      },
+      {
+        "month": "Mar",
+        "points": 1500
+      },
+      {
+        "month": "Apr",
+        "points": 2100
+      },
+      {
+        "month": "May",
+        "points": 1900
+      },
+      {
+        "month": "Jun",
+        "points": 2300
+      }
+    ]
+  }
+}
